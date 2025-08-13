@@ -1,6 +1,5 @@
-Programador Full Stack -- JavaScript | ReactJS | NodeJS | TypeScript | NextJS
-
-<!---
-JonathanLopesM/JonathanLopesM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Experiência nas linguagens, frameworks e bibliotecas:
+ Front-End: HTML5, CSS3, SASS, TailwindCSS, React JS, Next JS, Vue e Quasar - Typescript
+ Back-End: Node JS, Express, Fastify - Typescript
+ Banco de dados: Mongo DB - Mongoose, MySQL - Sequelize - GraphQL
+ Mobile: React-Native - Typescript
